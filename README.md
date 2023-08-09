@@ -1,7 +1,7 @@
 # Watchlist
 
 ```
-- React, React Router, React Toastify, React Icons
+React, React Router, React Toastify, React Icons
 ```
 
 ### <a href="https://watchlistou.netlify.app/">Live Demo</a>
