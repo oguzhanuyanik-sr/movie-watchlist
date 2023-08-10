@@ -1,9 +1,9 @@
-# Watchlist
+# Movie Watchlist
 
 ```
 React, React Router, React Toastify, React Icons
 ```
 
-### <a href="https://watchlistou.netlify.app/">Live Demo</a>
+### <a href="https://watchlistou.netlify.app/add">Live Demo</a>
 
-<img alt="Watchlist" src="https://raw.githubusercontent.com/oguzhanuyanik-sr/react-watchlist/master/screenshot.png" />
+<img alt="Movie Watchlist" src="https://raw.githubusercontent.com/oguzhanuyanik-sr/movie-watchlist/master/screenshot.png" />
